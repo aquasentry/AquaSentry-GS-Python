@@ -41,3 +41,6 @@ Para executar o AquaSentry localmente, siga estas etapas:
 
 ## Considerações Finais
 Este sistema básico de arrecadação de fundos e login pode ser expandido com funcionalidades adicionais, como envio de emails de confirmação, integração com sistemas de pagamento, e melhorias na interface de usuário. O AquaSentry visa promover a participação ativa na proteção ambiental, tornando mais fácil para as pessoas contribuírem para um futuro mais sustentável.
+
+## Link do Repositório no GitHub
+https://github.com/aquasentry/AquaSentry-GS-Python
